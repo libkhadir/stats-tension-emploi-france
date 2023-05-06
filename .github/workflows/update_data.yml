@@ -35,7 +35,7 @@ jobs:
         env:
           GRANT_TYPE: ${{ secrets.GRANT_TYPE }}
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
-          SECRET: ${{ secrets.SECRET }}
+          SECRET: ${{ secrets.CLIENT_SECRET }}
           SCOPE: ${{ secrets.SCOPE }}
       - name: Push result
         run: |
