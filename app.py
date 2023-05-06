@@ -73,7 +73,7 @@ if __name__ == "__main__":
     sql_c.sql("select appellationlibelle as intitule, origineOffre.urlOrigine as lien_postuler from jobs_view order by appellationlibelle")\
         .write\
         .option("header", "true")\
-        .option("delimiter", ";")\
+        .option("delimiter", ",")\
         .csv("./export.csv")
 
     spark.stop()
