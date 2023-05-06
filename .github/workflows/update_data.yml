@@ -26,9 +26,11 @@ jobs:
           pip install -q poetry
       - name: Install project
         run: |
+          poetry config virtualenvs.in-project true
           poetry install
       - name: Update data
         run: |
+          source .venv/bin/activate
           python app.py
           rm -rf *.json
           mv export.csv/*.csv .
