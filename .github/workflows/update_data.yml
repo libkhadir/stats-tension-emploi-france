@@ -33,7 +33,7 @@ jobs:
           source .venv/bin/activate
           python app.py
           rm -rf *.json
-          mv export.csv/*.csv .
+          mv export.csv/*.csv export.csv
         env:
           GRANT_TYPE: ${{ secrets.GRANT_TYPE }}
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
@@ -43,6 +43,6 @@ jobs:
         run: |
          git config --global user.email "tkhadir.dev@gmail.com"
          git config --global user.name "tkhadir"
-         git add *.csv
+         git add export.csv
          git commit -m "feat: add results"
          git push origin
