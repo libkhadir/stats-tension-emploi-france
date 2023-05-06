@@ -27,7 +27,7 @@ jobs:
       - name: Install project
         run: |
           poetry config virtualenvs.in-project true
-          poetry install
+          poetry install --no-root
       - name: Update data
         run: |
           source .venv/bin/activate
