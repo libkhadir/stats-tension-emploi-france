@@ -1,7 +1,5 @@
 intitule,lien_postuler
 Acheteur / Acheteuse,https://candidat.pole-emploi.fr/offres/recherche/detail/159HBQW
-Acheteur approvisionneur / Acheteuse approvisionneuse,https://candidat.pole-emploi.fr/offres/recherche/detail/158HVSN
-Acousticien / Acousticienne BTP,https://candidat.pole-emploi.fr/offres/recherche/detail/158KXVT
 Adjoint / Adjointe responsable de magasin de détail,https://candidat.pole-emploi.fr/offres/recherche/detail/159KJKV
 Administrateur / Administratrice système informatique,https://candidat.pole-emploi.fr/offres/recherche/detail/158MZKC
 Administratreur(trice) système & réseaux information et com.,https://candidat.pole-emploi.fr/offres/recherche/detail/159LZFN
@@ -40,7 +38,9 @@ Assistant / Assistante achat,https://candidat.pole-emploi.fr/offres/recherche/de
 Assistant / Assistante administration des ventes,https://candidat.pole-emploi.fr/offres/recherche/detail/158HBDB
 Assistant / Assistante administration des ventes,https://candidat.pole-emploi.fr/offres/recherche/detail/158NLVS
 Assistant / Assistante chef de projet,https://candidat.pole-emploi.fr/offres/recherche/detail/158SDDH
+Assistant / Assistante de vie,https://candidat.pole-emploi.fr/offres/recherche/detail/159CGQH
 Assistant / Assistante de vie auprès de personnes âgées,https://candidat.pole-emploi.fr/offres/recherche/detail/159CJLN
+Assistant / Assistante de vie auprès de personnes âgées,https://candidat.pole-emploi.fr/offres/recherche/detail/159RSMH
 Assistant commercial / Assistante commerciale,https://candidat.pole-emploi.fr/offres/recherche/detail/159DVCK
 Assistant commercial / Assistante commerciale,https://candidat.pole-emploi.fr/offres/recherche/detail/159KNYM
 Assistant social / Assistante sociale,https://candidat.pole-emploi.fr/offres/recherche/detail/159BPCG
@@ -50,22 +50,25 @@ Attaché(e) commercial(e) biens d'équipement professionnels,https://candidat.po
 Auxiliaire de Vie Sociale -AVS-,https://candidat.pole-emploi.fr/offres/recherche/detail/159MVYY
 Auxiliaire de Vie Sociale -AVS-,https://candidat.pole-emploi.fr/offres/recherche/detail/159JPCH
 Auxiliaire de Vie Sociale -AVS-,https://candidat.pole-emploi.fr/offres/recherche/detail/158SWNG
+Auxiliaire de vie,https://candidat.pole-emploi.fr/offres/recherche/detail/159QKZL
 Auxiliaire de vie,https://candidat.pole-emploi.fr/offres/recherche/detail/159LRNP
 Auxiliaire de vie,https://candidat.pole-emploi.fr/offres/recherche/detail/159LRKJ
 Auxiliaire de vie,https://candidat.pole-emploi.fr/offres/recherche/detail/159HDHS
 Auxiliaire de vie,https://candidat.pole-emploi.fr/offres/recherche/detail/158XSPC
-Bardeur / Bardeuse,https://candidat.pole-emploi.fr/offres/recherche/detail/159JGCP
 Boucher / Bouchère,https://candidat.pole-emploi.fr/offres/recherche/detail/159FWGG
 Cadre de santé de service paramédical,https://candidat.pole-emploi.fr/offres/recherche/detail/159NHLJ
 Cadre de santé de service paramédical,https://candidat.pole-emploi.fr/offres/recherche/detail/159NHNL
 Carreleur / Carreleuse,https://candidat.pole-emploi.fr/offres/recherche/detail/159HRPD
 Chargé / Chargée d'indemnisations en assurances,https://candidat.pole-emploi.fr/offres/recherche/detail/159JCHT
+Chargé / Chargée d'indemnisations en assurances,https://candidat.pole-emploi.fr/offres/recherche/detail/159CPPK
+Chargé / Chargée d'indemnisations en assurances,https://candidat.pole-emploi.fr/offres/recherche/detail/159CPHY
 Chargé / Chargée d'indemnisations en assurances,https://candidat.pole-emploi.fr/offres/recherche/detail/158VFCS
 Chargé / Chargée de clientèle en ligne,https://candidat.pole-emploi.fr/offres/recherche/detail/157RQLK
 Chargé / Chargée de recrutement,https://candidat.pole-emploi.fr/offres/recherche/detail/159KYQQ
 Chargé / Chargée de recrutement,https://candidat.pole-emploi.fr/offres/recherche/detail/159NTGH
 Chargé / Chargée du développement des ressources humaines,https://candidat.pole-emploi.fr/offres/recherche/detail/159JSGF
 Chargé(e) de l'hygiène et de la sécurité du travail en ind,https://candidat.pole-emploi.fr/offres/recherche/detail/157VTXB
+Chef cuisinier / cuisinière,https://candidat.pole-emploi.fr/offres/recherche/detail/159MYCF
 Chef d'équipe en pose de menuiseries,https://candidat.pole-emploi.fr/offres/recherche/detail/159PNML
 Chef de caisses,https://candidat.pole-emploi.fr/offres/recherche/detail/159BWYL
 Chef de partie,https://candidat.pole-emploi.fr/offres/recherche/detail/159PZYW
@@ -75,12 +78,13 @@ Chef de secteur commerce,https://candidat.pole-emploi.fr/offres/recherche/detail
 Chef gouvernant / Chef gouvernante en hôtellerie,https://candidat.pole-emploi.fr/offres/recherche/detail/158SDBY
 Coach sportif,https://candidat.pole-emploi.fr/offres/recherche/detail/159NFND
 Coffreur / Coffreuse,https://candidat.pole-emploi.fr/offres/recherche/detail/159KWYY
+Coffreur bancheur / Coffreuse bancheuse,https://candidat.pole-emploi.fr/offres/recherche/detail/159FRGL
+Coiffeur / Coiffeuse,https://candidat.pole-emploi.fr/offres/recherche/detail/159HCTG
 Coiffeur / Coiffeuse,https://candidat.pole-emploi.fr/offres/recherche/detail/159CHMC
 Coiffeur / Coiffeuse,https://candidat.pole-emploi.fr/offres/recherche/detail/158QQPD
 Coiffeur / Coiffeuse,https://candidat.pole-emploi.fr/offres/recherche/detail/158KJMC
 Coiffeur / Coiffeuse mixte,https://candidat.pole-emploi.fr/offres/recherche/detail/158TBDW
 Collaborateur / Collaboratrice d'expertise comptable,https://candidat.pole-emploi.fr/offres/recherche/detail/155HSYC
-Commercial / Commerciale sédentaire,https://candidat.pole-emploi.fr/offres/recherche/detail/157PVBT
 Commis / Commise de salle,https://candidat.pole-emploi.fr/offres/recherche/detail/159KCQS
 Comptable,https://candidat.pole-emploi.fr/offres/recherche/detail/159LYGL
 Comptable,https://candidat.pole-emploi.fr/offres/recherche/detail/159KMLH
@@ -90,7 +94,6 @@ Comptable spécialisé / spécialisée paie,https://candidat.pole-emploi.fr/offr
 Conducteur / Conductrice d'engins de chantier,https://candidat.pole-emploi.fr/offres/recherche/detail/159FSFV
 Conducteur / Conductrice de train,https://candidat.pole-emploi.fr/offres/recherche/detail/159HKNK
 Conducteur / Conductrice de travaux,https://candidat.pole-emploi.fr/offres/recherche/detail/159PNSW
-Conducteur / Conductrice de travaux,https://candidat.pole-emploi.fr/offres/recherche/detail/158KXPW
 Conducteur(trice) ligne production/fabrication indus aliment,https://candidat.pole-emploi.fr/offres/recherche/detail/159DCYK
 Conseiller vendeur / Conseillère vendeuse à domicile,https://candidat.pole-emploi.fr/offres/recherche/detail/156FJWC
 Conseiller(ère) commercial(e) auprès des particuliers,https://candidat.pole-emploi.fr/offres/recherche/detail/158ZDWC
@@ -106,7 +109,6 @@ Customer Relationship Manager (CRM),https://candidat.pole-emploi.fr/offres/reche
 Câbleur électromécanicien / Câbleuse électromécanicienne,https://candidat.pole-emploi.fr/offres/recherche/detail/159HDWZ
 Dessinateur / Dessinatrice en génie civil,https://candidat.pole-emploi.fr/offres/recherche/detail/157VNTW
 Dessinateur-projeteur / Dessinatrice-projeteuse en mécanique,https://candidat.pole-emploi.fr/offres/recherche/detail/159KFDH
-Diagnostiqueur / Diagnostiqueuse bâtiment,https://candidat.pole-emploi.fr/offres/recherche/detail/158KXRC
 Directeur / Directrice de la gestion technique des bâtiments,https://candidat.pole-emploi.fr/offres/recherche/detail/158VBRJ
 Diététicien / Diététicienne,https://candidat.pole-emploi.fr/offres/recherche/detail/158SXNK
 Diététicien / Diététicienne nutritionniste,https://candidat.pole-emploi.fr/offres/recherche/detail/158HRGG
@@ -143,7 +145,6 @@ Ingénieur / Ingénieure paysagiste,https://candidat.pole-emploi.fr/offres/reche
 Ingénieur / Ingénieure supply chain en industrie,https://candidat.pole-emploi.fr/offres/recherche/detail/158CNKN
 Ingénieur / Ingénieure système informatique,https://candidat.pole-emploi.fr/offres/recherche/detail/158YWQM
 Ingénieur / Ingénieure technique et études de prix,https://candidat.pole-emploi.fr/offres/recherche/detail/158ZVGV
-Ingénieur(e) d'études BTP en génie climatique et énergétique,https://candidat.pole-emploi.fr/offres/recherche/detail/158KXWX
 Ingénieur/Ingénieure des travaux d'infrastructure et réseaux,https://candidat.pole-emploi.fr/offres/recherche/detail/158ZLKY
 Inspecteur enquêteur / Inspectrice enquêtrice d'assurances,https://candidat.pole-emploi.fr/offres/recherche/detail/159KMVF
 Laveur / Laveuse de vitres,https://candidat.pole-emploi.fr/offres/recherche/detail/159QLVD
@@ -152,20 +153,17 @@ Magasinier / Magasinière,https://candidat.pole-emploi.fr/offres/recherche/detai
 Magasinier / Magasinière cariste,https://candidat.pole-emploi.fr/offres/recherche/detail/159QSRW
 Magasinier / Magasinière cariste,https://candidat.pole-emploi.fr/offres/recherche/detail/159MDTP
 Magasinier vendeur / Magasinière vendeuse,https://candidat.pole-emploi.fr/offres/recherche/detail/159KJPF
-Maçon / Maçonne Voiries et Réseaux Divers -VRD-,https://candidat.pole-emploi.fr/offres/recherche/detail/159JGHJ
-Maçon / Maçonne Voiries et Réseaux Divers -VRD-,https://candidat.pole-emploi.fr/offres/recherche/detail/159JGCN
+Maçon / Maçonne Voiries et Réseaux Divers -VRD-,https://candidat.pole-emploi.fr/offres/recherche/detail/159FQVV
 Maître / Maîtresse d'internat,https://candidat.pole-emploi.fr/offres/recherche/detail/158BNQN
 Menuisier / Menuisière d'atelier,https://candidat.pole-emploi.fr/offres/recherche/detail/159FQZD
 Moniteur / Monitrice moto,https://candidat.pole-emploi.fr/offres/recherche/detail/158TMTB
 Monteur / Monteuse en charpente métallique,https://candidat.pole-emploi.fr/offres/recherche/detail/159BMMR
-Motoriste metteur / metteuse au point,https://candidat.pole-emploi.fr/offres/recherche/detail/158LDVC
 Musicien intervenant / Musicienne intervenante,https://candidat.pole-emploi.fr/offres/recherche/detail/159LSBZ
 Mécanicien / Mécanicienne automobile,https://candidat.pole-emploi.fr/offres/recherche/detail/159DFMD
 Mécanicien / Mécanicienne motocycles,https://candidat.pole-emploi.fr/offres/recherche/detail/159LDYR
 Mécanicien / Mécanicienne poids lourds,https://candidat.pole-emploi.fr/offres/recherche/detail/158TNTS
 Mécanicien(ne) d'engins de chantier et de travaux publics,https://candidat.pole-emploi.fr/offres/recherche/detail/159FTGK
-Mécanicien(ne) de maintenance de matériel ferroviaire,https://candidat.pole-emploi.fr/offres/recherche/detail/153PZFT
-Métallier-poseur / Métallière-poseuse,https://candidat.pole-emploi.fr/offres/recherche/detail/158MJBB
+Médecin de prévention,https://candidat.pole-emploi.fr/offres/recherche/detail/159CZCR
 Métallier-serrurier / Métallière-serrurière,https://candidat.pole-emploi.fr/offres/recherche/detail/158SBDD
 Opérateur / Opératrice de saisie,https://candidat.pole-emploi.fr/offres/recherche/detail/159LPFN
 Orthophoniste,https://candidat.pole-emploi.fr/offres/recherche/detail/158ZLHT
@@ -205,6 +203,7 @@ Technicien / Technicienne de help desk en informatique,https://candidat.pole-emp
 Technicien / Technicienne de maintenance industrielle,https://candidat.pole-emploi.fr/offres/recherche/detail/157KFPM
 Technicien / Technicienne de maintenance industrielle,https://candidat.pole-emploi.fr/offres/recherche/detail/157KFKM
 Technicien / Technicienne de maintenance industrielle,https://candidat.pole-emploi.fr/offres/recherche/detail/158XZVH
+Technicien / Technicienne de matériel ferroviaire,https://candidat.pole-emploi.fr/offres/recherche/detail/158WNMT
 Technicien / Technicienne en mesures physiques et essais,https://candidat.pole-emploi.fr/offres/recherche/detail/158TSVV
 Technicien / Technicienne géomètre,https://candidat.pole-emploi.fr/offres/recherche/detail/159BXKM
 Technicien / Technicienne logistique transport,https://candidat.pole-emploi.fr/offres/recherche/detail/159KFQW
@@ -232,6 +231,7 @@ Vendeur / Vendeuse en boulangerie-pâtisserie,https://candidat.pole-emploi.fr/of
 Électricien / Électricienne bâtiment tertiaire,https://candidat.pole-emploi.fr/offres/recherche/detail/159QLPY
 Électricien / Électricienne bâtiment tertiaire,https://candidat.pole-emploi.fr/offres/recherche/detail/159FRWQ
 Électricien / Électricienne d'équipements industriels,https://candidat.pole-emploi.fr/offres/recherche/detail/159HDRX
+Électricien / Électricienne d'équipements industriels,https://candidat.pole-emploi.fr/offres/recherche/detail/159FQYH
 Électrotechnicien / Électrotechnicienne branche industrie,https://candidat.pole-emploi.fr/offres/recherche/detail/154NMRN
 Électrotechnicien / Électrotechnicienne de maintenance,https://candidat.pole-emploi.fr/offres/recherche/detail/153MGCT
 Équipier(ère) polyvalent(e) de restauration rapide,https://candidat.pole-emploi.fr/offres/recherche/detail/158TSVS
